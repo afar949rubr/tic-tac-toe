@@ -1,0 +1,19 @@
+.td{
+    width: 50px;
+    text-align: center;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-style: solid;
+    box-sizing: border-box;
+}
+
+.table{
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-style: solid;
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+}
+
+
